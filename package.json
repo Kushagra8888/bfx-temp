@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13"
+  }
+}
